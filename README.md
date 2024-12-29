@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dasun Sanchitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-dev-999&label=Profile%20views&color=0e75b6&style=flat" alt="ds-dev-999" /> </p>
 
