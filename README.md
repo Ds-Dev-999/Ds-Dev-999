@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Dasun Sanchitha</h1>
 <h3 align="center" class="animate-fade-in">
-  <img src="https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-xl.png" alt="Sri Lanka Flag" style="width: 120px; height: 80px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-xl.png" alt="Sri Lanka Flag" style="width: 130px; height: 80px; vertical-align: middle; margin-right: 10px;">
 </h3>
 
 
