@@ -40,7 +40,7 @@
 - 🎓 **Educational Background:**  
   - Undergraduate at the Java Institute.  
   - Studying at UCSC (University of Colombo School of Computing).  
-  - Pursuing a cybersecurity degree 🛡️ at SITC.  
+  - Pursuing a CyberSecurity degree 🛡️ at SITC.  
 
 - 🔭 **Currently Working On:**  
   - Developing impactful software to bring ideas to life.  
@@ -52,15 +52,14 @@
   - Programming in all major languages (Python 🐍, Java ☕, and more).  
 
 - 👯 **Looking to Collaborate On:**  
-  - Java projects.  
-  - Web development 🌐 and cybersecurity initiatives.  
+  - SoftWare projects.  
+  - Web Development 🌐 & CyberSecurity initiatives.  
 
 - 🤝 **Need Help With:**  
   - Improving ethical hacking skills.  
   - Scaling innovative tech ideas into real-world solutions 🚀.  
 
-- 💬 **Ask Me About:**  
-  - Java development.  
+- 💬 **Ask Me About:**   
   - Ethical hacking.  
   - Solving complex tech challenges.  
 
