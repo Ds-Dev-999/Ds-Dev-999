@@ -176,11 +176,14 @@
        alt="Most Used Languages" 
        style="width: 100%; max-width: 600px;" />
 </div>
-<p align="center">
-  <img src="https://github.com/ds-dev-999/ds-dev-999/blob/output/github-contribution-grid-snake-dark.svg" 
-       alt="GitHub Snake Contribution Animation" 
-       style="width: 100%; max-width: 800px;" />
-</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ds-Dev-999/Ds-Dev-999/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ds-Dev-999/Ds-Dev-999/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ds-Dev-999/Ds-Dev-999/output/github-snake.svg" />
+  </picture>
+</div>
 
 
 
