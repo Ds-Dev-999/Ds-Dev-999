@@ -152,7 +152,7 @@
 </table>
 
 
-<h3 align="center">My Statistics</h3>
+<h3 align="center">📶My Statistics</h3>
 <div align="center">
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ds-dev-999&theme=radical&no-frame=true&column=8" 
