@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka, skilled in Crafting innovative Solutions 💻 Through Full-Stack Development 🌐, CyberSecurity 🛡️, & Ethical Hacking 🕵️‍♂️</h3>
+<h3 align="center">A passionate Full Stack Developer From Sri Lanka, Skilled In Crafting Innovative Solutions 💻 Through Full-Stack Development 🌐, CyberSecurity 🛡️, & Ethical Hacking 🕵️‍♂️</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ds-dev-999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
