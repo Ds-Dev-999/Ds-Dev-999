@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  # Schedule the action to run at 12 AM daily
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual triggering of the workflow
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository's code
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ds-dev-999
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Push the generated animation to the output branch
+      - name: Push to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
