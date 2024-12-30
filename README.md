@@ -154,11 +154,36 @@
 
 <h3 align="center">My Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds-dev-999&show_icons=true&theme=radical" alt="Dasun Sanchitha's GitHub Stats" style="width: 100%; max-width: 600px;"/>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ds-dev-999&theme=radical&no-frame=true&column=7" 
+       alt="GitHub Trophies" 
+       style="width: 100%; max-width: 800px;" />
+</div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ds-dev-999&show_icons=true&theme=radical" 
+       alt="Dasun Sanchitha's GitHub Stats" 
+       style="width: 100%; max-width: 600px;" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-dev-999&theme=radical" alt="GitHub Streak Stats" style="width: 100%; max-width: 600px;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-dev-999&theme=radical" 
+       alt="GitHub Streak Stats" 
+       style="width: 100%; max-width: 600px;" />
 </div>
+<div align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-dev-999&layout=compact&theme=radical" 
+       alt="Most Used Languages" 
+       style="width: 100%; max-width: 600px;" />
+</div>
+<p align="center">
+  <img src="https://github.com/ds-dev-999/ds-dev-999/blob/output/github-contribution-grid-snake-dark.svg" 
+       alt="GitHub Snake Contribution Animation" 
+       style="width: 100%; max-width: 800px;" />
+</p>
+
+
+
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
